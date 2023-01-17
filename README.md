@@ -167,6 +167,15 @@
     <td>Databases</td>
     <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png"
+        width="48"
+        height="48"
+        alt="MONGODB"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         width="48"
         height="48"
@@ -229,6 +238,15 @@
   
   <tr>
     <td>Design</td>
+      <td align="center" height="108" min-width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+        width="48"
+        height="48"
+        alt="FIGMA"
+      />
+      <br /><strong>Figma</strong>
+    </td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
@@ -255,15 +273,6 @@
         alt="INDESIGN"
       />
       <br /><strong>InDesign</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-        width="48"
-        height="48"
-        alt="FIGMA"
-      />
-      <br /><strong>Figma</strong>
     </td>
   </tr>
   
