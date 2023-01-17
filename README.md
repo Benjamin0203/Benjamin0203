@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on [Minaa](https://github.com/jakinyang/minaa)
 
-- 📫 How to reach me **benjaminmeng1994@gmail.com**
+- 📫 How to reach me     <a href="mailto:benjaminmeng1994@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
 - 📄 Know about my experiences [https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng](https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng)
 
