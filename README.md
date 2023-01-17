@@ -22,6 +22,15 @@
 <table>  
   <tr>
     <td>Languages</td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        width="48"
+        height="48"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -39,15 +48,6 @@
         alt="CSS"
       />
       <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JAVASCRIPT"
-      />
-      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -91,6 +91,24 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT NATIVE"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
         width="48"
         height="48"
@@ -106,15 +124,6 @@
         alt="RAILS"
       />
       <br /><strong>Rails</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
