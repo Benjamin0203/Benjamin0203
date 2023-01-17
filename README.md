@@ -51,15 +51,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://titrias.com/files/2022/04/typescript.png"
-        width="48"
-        height="48"
-        alt="TYPESCRIPT"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
         width="48"
         height="48"
@@ -194,36 +185,7 @@
       </td>     
   </tr>
   
-  <tr>
-    <td>Cloud</td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://www.zencos.com/wp-content/uploads/2021/11/aws-logo.png"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png"
-        width="48"
-        height="48"
-        alt="GCP"
-      />
-      <br /><strong>Google Cloud</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-          src="https://gitlab.com/uploads/-/system/project/avatar/14379678/terraform.png"
-          width="48"
-          height="48"
-          alt="TERRAFORM"
-        />
-        <br /><strong>Terraform</strong>
-      </td>
-  </tr>
+  
 
   <tr>
     <td>Testing</td>
@@ -235,15 +197,6 @@
         alt="CYPRESS"
       />
       <br /><strong>Cypress</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
-        width="48"
-        height="48"
-        alt="STORYBOOK"
-      />
-      <br /><strong>Storybook</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -263,28 +216,10 @@
       />
       <br /><strong>Mocha</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
-        width="48"
-        height="48"
-        alt="CHAI"
-      />
-      <br /><strong>Chai</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
-        width="48"
-        height="48"
-        alt="RSPEC"
-      />
-      <br /><strong>RSpec</strong>
-    </td>
   </tr>  
   
   <tr>
-    <td>Game Development & Design</td>
+    <td>Design</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
@@ -314,48 +249,12 @@
     </td>
     <td align="center" height="108" min-width="108">
       <img
-        src="https://webforpc.net/wp-content/uploads/2019/12/1200px-Adobe_XD_CC_icon.svg_.png"
-        width="48"
-        height="48"
-        alt="XD"
-      />
-      <br /><strong>AdobeXD</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
         width="48"
         height="48"
         alt="FIGMA"
       />
       <br /><strong>Figma</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://i.imgur.com/4FEZwIp.png"
-        width="48"
-        height="48"
-        alt="GAMEMAKER"
-      />
-      <br /><strong>GameMaker</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-        width="48"
-        height="48"
-        alt="UNITY"
-      />
-      <br /><strong>Unity</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"
-        width="48"
-        height="48"
-        alt="KRITA"
-      />
-      <br /><strong>Krita</strong>
     </td>
   </tr>
   
@@ -378,15 +277,6 @@
         alt="LINUX"
       />
       <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
-        width="48"
-        height="48"
-        alt="COMPTIAA+"
-      />
-       <br /><strong>Comptia A+</strong>
     </td>
   </tr>   
 </table>
