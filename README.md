@@ -1,4 +1,7 @@
-
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/mrw-girlfriend-parents-lIzAEoZEn571u" width="150" height='150'/>
+</div>
+---
 <h1 align="center">Benjamin Meng</h1>
 <h2 align="center">Full-Stack Web Developer</h2>
 
