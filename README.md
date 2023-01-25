@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin0203" alt="benjamin0203" /></a> </p>
 
-- 🔭 I’m currently working on [Minaa](https://github.com/Benjamin0203/minaa)
+- 🔭 I’m currently working on [NFT Gallery](https://github.com/Benjamin0203/nft-gallery)
 
 - 📫 Contact me     <a href="mailto:benjaminmeng1994@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
