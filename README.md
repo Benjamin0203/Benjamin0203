@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-- 📄 Know about my experiences [https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng](https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng)
+- 📄 Know about my experiences [Resume](https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng)
 
 # :email: Contact me:
 <p align="left">
