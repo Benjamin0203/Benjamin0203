@@ -31,6 +31,15 @@
     <td>Languages</td>
      <td align="center" height="108" width="108">
       <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/500px-Typescript_logo_2020.svg.png"
+        width="48"
+        height="48"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
