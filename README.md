@@ -11,17 +11,16 @@
 
 ![Snake animation](https://github.com/Benjamin0203/Benjamin0203/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on [NFT Gallery](https://github.com/Benjamin0203/nft-gallery)
-
-- 📫 Contact me     <a href="mailto:benjaminmeng1994@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+- 🔭 I’m currently working on [Blockchain Blog Platform](https://github.com/Benjamin0203/web3Platform)
 
 - 📄 Know about my experiences [Resume](https://www.cakeresume.com/s--QHmplDJRsl9mfBW6rlK-Vg--/benjamin-meng)
 
 # :email: Contact me:
 <p align="left">
 <a href="https://www.linkedin.com/in/benjamin-meng-17026813b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/benjamin-meng-17026813b/" height="30" width="40" /></a>
+ <a href="mailto:benjaminmeng1994@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 # :bread: Tech Stack:
